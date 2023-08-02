@@ -17,3 +17,10 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+.subtitle {
+background-color: skyblue;
+width: 150px;
+border-radius: 55px;
+padding-left: 10px;
+
+}
