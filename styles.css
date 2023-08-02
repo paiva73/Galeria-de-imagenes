@@ -23,7 +23,7 @@ body {
     font-family: monospace;
 }
 
-#titulo{
+.titulo{
     font-family: 'Quicksand', sans-serif;
     text-decoration: underline;
 }
