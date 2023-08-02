@@ -17,3 +17,11 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+.otraclase {
+    color: red;
+}
+
+.unaclase {
+    color: rgb(255, 0, 251);
+}
