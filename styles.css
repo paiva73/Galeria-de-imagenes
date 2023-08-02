@@ -1,18 +1,28 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background: rgb(0,201,163);
+    background: linear-gradient(125deg, rgba(0,201,163,1) 0%, rgba(210,216,216,1) 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid orange;
     border-radius: 10px;
     height: 400px;
+    width: 100%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .link-button {
     text-decoration: none;
-    color: black;
+    color: green;
     border: 1px solid gray;
-    background-color: #f2f2f2;
+    background-color: #b1afaf;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
@@ -24,3 +34,29 @@ h1{
     background-color: salmon;
 
 }
+
+
+.subtitle {
+background-color: skyblue;
+width: 150px;
+border-radius: 55px;
+padding-left: 10px;
+
+}
+
+
+
+
+.titulo{
+    font-family: 'Quicksand', sans-serif;
+    text-decoration: underline;
+}
+
+.parrafo{
+    font-family: 'Rajdhani', sans-serif;
+}
+
+p {
+    color: royalblue;
+}
+
