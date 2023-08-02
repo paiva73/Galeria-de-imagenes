@@ -20,8 +20,18 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
-    font-family: monospace;
+
 }
+.subtitle {
+background-color: skyblue;
+width: 150px;
+border-radius: 55px;
+padding-left: 10px;
+
+}
+
+
+
 
 .titulo{
     font-family: 'Quicksand', sans-serif;
@@ -35,3 +45,4 @@ body {
 p {
     color: royalblue;
 }
+
