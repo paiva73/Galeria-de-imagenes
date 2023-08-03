@@ -28,6 +28,15 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+
+.otraclase {
+    color: red;
+}
+
+.unaclase {
+    color: rgb(255, 0, 251);
+}
+
 h1{
     text-decoration: underline;
     text-align: center;
@@ -59,4 +68,5 @@ padding-left: 10px;
 p {
     color: royalblue;
 }
+
 
